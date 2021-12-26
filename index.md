@@ -10,7 +10,11 @@
 - abcajvn dlkvnjc 
 - ksjdjnv sjnvs
 
+![](images/india-house-prices.gif)
+
 ### Project 2: [Matrix Calculator](http://www.math.odu.edu/~bogacki/cgi-bin/lat.cgi)
 - wgbsjnvlsncv
 - wrbgsn
 - fbjkefnwejgvn
+
+![](images/matrix_chart.jpg)
