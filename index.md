@@ -1,7 +1,7 @@
 # Arunav-Sk
 ### Data Science Portfolio
 
-![](images/pasport.jpg)
+![](images/passport.jpg)
 ## Education
 - GIMT
 - IIT Madras
